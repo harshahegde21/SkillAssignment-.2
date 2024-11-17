@@ -1,0 +1,47 @@
+.about-us-container {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  .about-section, .contact-section {
+    margin-bottom: 40px;
+  }
+  
+  h1, h2 {
+    color: #333;
+  }
+  
+  .social-links a {
+    margin-right: 15px;
+    text-decoration: none;
+    color: #555;
+  }
+  
+  .social-links a:hover {
+    color: #000;
+  }
+  
+  .contact-form label {
+    display: block;
+    margin-top: 10px;
+  }
+  
+  .contact-form input, .contact-form textarea {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+  }
+  
+  .contact-form button {
+    margin-top: 10px;
+    padding: 10px 15px;
+    background-color: #f39c12;
+    border: none;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .contact-details p {
+    margin: 5px 0;
+  }
+  
